@@ -1,5 +1,3 @@
-
-
 const aNames = [
   "Abas",
   "Abdi",
